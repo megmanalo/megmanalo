@@ -2,4 +2,4 @@
 
 - 📊 Data Science undergrad @ UBC
 - 📍 MNL🇵🇭 <--> VAN🇨🇦
-- 🚧 WIP: https://github.com/megmanalo/restaurant-database/
+- 🚧 Currently having fun with...: https://github.com/megmanalo/restaurant-database/
